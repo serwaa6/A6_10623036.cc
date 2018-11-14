@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+int main(arg v,char**arg c){
+int GCD,a,b,q,r;
+cout<<"please enter two numbers\n";
+cin>>a;
+cin>>b;
+whiles(r!=0)
+    { a%b=r;
+      a=b;
+       b=r;
+      GCD=a;     }
+cout<<"The Greatest Common Divisor of <<a<< and <<b<< is <<GCD;
+                                
+
+
+          return 0;    }
